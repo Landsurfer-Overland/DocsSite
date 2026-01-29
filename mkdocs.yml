@@ -1,0 +1,46 @@
+site_name: 1KZ-TE Manual (RM790E Supplement)
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+  - Start Here:
+      - Scope & Models: start/scope.md
+      - Safety & Conventions: start/conventions.md
+      - Abbreviations: start/abbreviations.md
+
+  - Quick Reference:
+      - Fluids & Capacities: quickref/fluids.md
+      - Common Torques: quickref/torques.md
+      - Common Procedures: quickref/common-procedures.md
+
+  - Common Jobs:
+      - Timing Belt: jobs/timing-belt.md
+      - Head Gasket: jobs/head-gasket.md
+      - Injection Pump R&R: jobs/injection-pump-rr.md
+      - Turbo R&R: jobs/turbo-rr.md
+
+  - Diagnostics:
+      - Troubleshooting Workflow: diag/workflow.md
+      - DTC Index: diag/dtc-index.md
+      - Symptom Tables: diag/symptoms.md
+      - Connector & Harness Testing: diag/connectors.md
+
+  - Procedures by System:
+      - Engine Mechanical: systems/engine-mechanical/index.md
+      - Turbocharging: systems/turbo/index.md
+      - Emission Control: systems/emissions/index.md
+      - Electronic Control Diesel: systems/ecd/index.md
+      - Engine Fuel: systems/fuel/index.md
+      - Cooling: systems/cooling/index.md
+      - Lubrication: systems/lubrication/index.md
+      - Starting: systems/starting/index.md
+
+  - Specs & Tools:
+      - Special Service Tools: specs/sst.md
+      - Service Specifications: specs/service-specs.md
+
+  - Indexes:
+      - Component Index: indexes/components.md
+      - Glossary: indexes/glossary.md
