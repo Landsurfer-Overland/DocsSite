@@ -17,7 +17,7 @@ service, and repair of the 1KZ-TE engine and its supporting systems.
 - Fuel system: Electronically controlled Denso VE rotary pump
 - Timing drive: Timing belt
 
-![1KZ-TE engine overview](../assets/images/Screenshot%202026-01-29%20145250.png)
+![1KZ-TE engine overview][def]
 
 ## What This Manual Covers
 
@@ -35,3 +35,6 @@ service, and repair of the 1KZ-TE engine and its supporting systems.
 - Non-factory performance modifications
 
 
+
+
+[def]: ../assets/images/hq720.jpg

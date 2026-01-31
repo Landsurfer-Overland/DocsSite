@@ -48,7 +48,8 @@ They are also listed in the Service Specifications section for quick reference.
 CAUTIONS
 Presented in bold type and indicate the possibility of injury to you or other people.
 
-!!! note "NOTICES"
+!!! note > "NOTICES"
+
 Presented in bold type and indicate the possibility of damage to the components being repaired.
 
 HINTS
